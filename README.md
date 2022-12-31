@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MotoWiZ
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+
+My Vodewars badge
+![image](https://www.codewars.com/users/MotoWiZ/badges/large)
+
 - 📫 How to reach me motowiz@hotmail.com
 <!---
 MotoWiZ/MotoWiZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
